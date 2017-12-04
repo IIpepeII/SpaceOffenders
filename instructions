@@ -1,0 +1,8 @@
+Compile with GCC in terminal: 
+
+gcc spaceoffenrs.c -o spaceoffenders
+
+run program in terminal:
+
+./spaceoffenders
+
